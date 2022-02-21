@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    // Please don't modify the code below.
+    const string = input;
+    // Write your code below this line.
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17762#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 20 Feb 2022 12:29:23 UTC
+record: -1

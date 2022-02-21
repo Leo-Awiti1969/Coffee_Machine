@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: global
+- text: created without a declaration keyword
+- text: created with let
+- text: local
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9775#comment
+status: Solved
+record: -1

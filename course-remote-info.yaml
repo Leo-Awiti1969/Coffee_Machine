@@ -1,0 +1,157 @@
+hyperskill_project:
+  id: 220
+  ide_files: https://stepik.org/media/attachments/lesson/621544/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: Mon, 21 Feb 2022 16:10:21 UTC
+stages:
+- id: 1101
+  step: 17036
+  is_completed: true
+- id: 1102
+  step: 17037
+  is_completed: true
+- id: 1103
+  step: 17038
+  is_completed: true
+- id: 1104
+  step: 17039
+  is_completed: true
+- id: 1105
+  step: 17040
+  is_completed: true
+- id: 1106
+  step: 17041
+  is_completed: true
+topics:
+  0:
+  - title: World Wide Web
+    theory_id: 6633
+  - title: HyperText Transfer Protocol
+    theory_id: 6569
+  - title: Computer programming
+    theory_id: 8739
+  - title: Web development
+    theory_id: 13931
+  - title: Introduction to JavaScript
+    theory_id: 8016
+  - title: Overview of the basic program
+    theory_id: 8154
+  - title: Multi-line programs
+    theory_id: 8162
+  1:
+  - title: Comments
+    theory_id: 8170
+  - title: Functions
+    theory_id: 8388
+  - title: JavaScript Code Style
+    theory_id: 9916
+  - title: Naming variables
+    theory_id: 8364
+  - title: Strings and numbers
+    theory_id: 8194
+  - title: Arithmetic operators
+    theory_id: 8372
+  - title: Variables
+    theory_id: 8186
+  - title: Boolean and logical operators
+    theory_id: 8471
+  - title: JSON
+    theory_id: 6854
+  - title: Introduction to Objects
+    theory_id: 8588
+  - title: Null and Undefined
+    theory_id: 8564
+  - title: Type conversion
+    theory_id: 8380
+  - title: Comparison operators
+    theory_id: 8580
+  - title: Conditional operators
+    theory_id: 8889
+  - title: Introduction to string
+    theory_id: 17747
+  - title: Basic string methods
+    theory_id: 17755
+  3:
+  - title: IDE
+    theory_id: 10996
+  - title: HTML basics
+    theory_id: 6434
+  - title: HTTP URL
+    theory_id: 6740
+  - title: Tags and attributes
+    theory_id: 7536
+  - title: HTML page structure
+    theory_id: 6491
+  - title: Comments
+    theory_id: 7502
+  - title: Block-level elements
+    theory_id: 7271
+  - title: Inline Elements
+    theory_id: 7518
+  - title: Introduction to operating systems
+    theory_id: 9704
+  - title: What is CSS
+    theory_id: 7678
+  - title: Connecting CSS to HTML
+    theory_id: 7418
+  - title: Basic syntax
+    theory_id: 7722
+  - title: HTML attributes id and class
+    theory_id: 7527
+  - title: CSS Selectors
+    theory_id: 7738
+  - title: DOM
+    theory_id: 8635
+  - title: setTimeout and setInterval
+    theory_id: 9680
+  - title: DOM events
+    theory_id: 10857
+  - title: Connecting JS to HTML
+    theory_id: 7510
+  - title: Introduction to Promises
+    theory_id: 9980
+  - title: '"then", "catch" and "finally" methods'
+    theory_id: 9989
+  - title: DOM methods
+    theory_id: 8662
+  - title: The "addEventListener" method
+    theory_id: 8723
+  - title: Anonymous function
+    theory_id: 10865
+  - title: Arrow functions
+    theory_id: 8455
+  - title: Introduction to arrays
+    theory_id: 16141
+  - title: Array creation
+    theory_id: 16356
+  - title: Introduction to Node.js
+    theory_id: 12691
+  - title: Command line overview
+    theory_id: 8977
+  - title: Parameters and options
+    theory_id: 9746
+  - title: Increment and decrement
+    theory_id: 9102
+  - title: For loops
+    theory_id: 9119
+  - title: Scope of variables
+    theory_id: 9771
+  - title: WebStorm
+    theory_id: 9492
+  - title: Intro to computational thinking
+    theory_id: 8742
+  - title: Components of computational thinking
+    theory_id: 8745
+  4:
+  - title: Switch
+    theory_id: 10689
+  - title: While loops
+    theory_id: 9128
+  - title: Break and continue
+    theory_id: 9374
+  5:
+  - title: Template literals
+    theory_id: 8731
+  - title: Introduction to OOP
+    theory_id: 3614

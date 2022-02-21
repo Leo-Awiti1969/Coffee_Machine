@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: To avoid executing code blocks of other cases
+- text: To prevent other values/expressions from being stopped if a match is already
+    found
+- text: To skip all the invalid values/instructions before the browser starts calculating
+    them
+- text: To prevent skipping all the correct case statements
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10692#comment
+status: Solved
+record: -1

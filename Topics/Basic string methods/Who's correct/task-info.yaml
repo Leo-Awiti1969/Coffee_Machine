@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Michael is correct.
+- text: Jordan is correct.
+- text: They both don't know JavaScript.
+- text: Jordan is 50% right and Michael is completely wrong.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17758#comment
+status: Solved
+record: -1
